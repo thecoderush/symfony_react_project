@@ -1,10 +1,21 @@
 # symfony_react_project https://www.twilio.com/blog/building-a-single-page-application-with-symfony-php-and-react
 
+Backend
+
+PHP 8.0.16 (cli) (built: Feb 21 2022 14:42:00) ( NTS )
+Copyright (c) The PHP Group
+Zend Engine v4.0.16, Copyright (c) Zend Technologies
+    with Zend OPcache v8.0.16, Copyright (c), by Zend Technologies
+
 Symfony CLI version 5.4.2 (c) 2017-2022 Symfony SAS #StandWithUkraine Support Ukraine (2022-03-08T15:27:02Z - stable)
 
+Frontend
+
+$ npm view react version
+17.0.2
 
 Warning! Outdate practices from tutorial dated 2019. React Class Component and some commande lines are depreciated and would not 
-worked as off today: Mars 16 2022. Please Follow instructions marked by *
+worked as off today: Mars 16 2022. Please Follow instructions when it is require. Instructions followed by * is depreciated. Read the appropriate documentation
 
 Building a Single Page Application with Symfony PHP and React
   
