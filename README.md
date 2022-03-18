@@ -1,17 +1,21 @@
 # symfony_react_project https://www.twilio.com/blog/building-a-single-page-application-with-symfony-php-and-react
 
-Backend
+**Backend**
+
+yarn -v 1.22.18
 
 PHP 8.0.16 (cli) (built: Feb 21 2022 14:42:00) ( NTS )
 Copyright (c) The PHP Group
 Zend Engine v4.0.16, Copyright (c) Zend Technologies
     with Zend OPcache v8.0.16, Copyright (c), by Zend Technologies
 
+Composer version 2.2.7 2022-02-25 11:12:27
+
 Symfony CLI version 5.4.2 (c) 2017-2022 Symfony SAS #StandWithUkraine Support Ukraine (2022-03-08T15:27:02Z - stable)
 
-Frontend
+**Frontend**
 
-$ npm view react version
+$ npm view react version (in the console, so may not be the same used by symfony Webpack Encore enable react)  
 17.0.2
 
 Warning! Outdate practices from tutorial dated 2019. React Class Component and some commande lines are depreciated and would not 
